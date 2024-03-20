@@ -48,18 +48,18 @@
         "sugar",
         "cocoa powder"
       ],
-      "image": "ice-cream.xtra1.svg"
+      "image": "ice-cream-xtra1.svg"
       },
     {
       "name": "Caramel Crunch",
       "calories": 480,
       "type": "ice cream",
-      "ingredients": [
+      "ingredients": [  
         "caramel sauce",
         "toffee bits",
         "vanilla base"
       ],
-      "image": "ice-cream.xtra2.svg"
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
