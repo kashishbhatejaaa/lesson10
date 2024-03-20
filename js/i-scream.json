@@ -5,26 +5,61 @@
   "active" : true,
   "topFlavors" : [
     {
-      "name" : "Monstrous Mint",
-      "calories" : 400,
-      "type" : "ice cream",
-      "ingredients" : [
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
         "peppermint cream",
         "dark chocolate chips",
         "vanilla extract"
       ],
-      "image" : "chocolate-mint.svg"
+      "image": "chocolate-mint.svg"
     },
     {
-      "name" : "Perfect Peach Mango",
-      "calories" : 350,
-      "type" : "sorbet",
-      "ingredients" : [
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "sorbet",
+      "ingredients": [
         "peach purée",
         "mango chunks",
         "clover honey"
       ],
-      "image" : "peach-mango.svg"
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Stupendous Strawberry",
+      "calories": 500,
+      "type": "ice milk",
+      "ingredients": [
+        "strawberries",
+        "colored sprinkles",
+        "chocolate shavings",
+        "strawberry syrup"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Hazelnut Heaven",
+      "calories": 420,
+      "type": "gelato",
+      "ingredients": [
+        "hazelnuts",
+        "milk",
+        "sugar",
+        "cocoa powder"
+      ],
+      "image": "ice-cream.xtra1.svg"
+      },
+    {
+      "name": "Caramel Crunch",
+      "calories": 480,
+      "type": "ice cream",
+      "ingredients": [
+        "caramel sauce",
+        "toffee bits",
+        "vanilla base"
+      ],
+      "image": "ice-cream.xtra2.svg"
     }
   ]
 }
